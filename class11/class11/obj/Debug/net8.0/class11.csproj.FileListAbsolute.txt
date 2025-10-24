@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\san c#\class11\class11\bin\Debug\net8.0\class11.exe
+C:\Users\Student\Desktop\san c#\class11\class11\bin\Debug\net8.0\class11.deps.json
+C:\Users\Student\Desktop\san c#\class11\class11\bin\Debug\net8.0\class11.runtimeconfig.json
+C:\Users\Student\Desktop\san c#\class11\class11\bin\Debug\net8.0\class11.dll
+C:\Users\Student\Desktop\san c#\class11\class11\bin\Debug\net8.0\class11.pdb
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.AssemblyInfo.cs
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.dll
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\refint\class11.dll
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.pdb
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\class11.genruntimeconfig.cache
+C:\Users\Student\Desktop\san c#\class11\class11\obj\Debug\net8.0\ref\class11.dll
